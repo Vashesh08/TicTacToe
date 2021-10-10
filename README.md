@@ -1,6 +1,6 @@
 # TicTacToe
 
-Simple Tic-Tac-Toe Game between Two players. 
+Simple Tic-Tac-Toe Game between Two players using tkinter module in Python. 
 
 Still Working on playing with computer feature
 
